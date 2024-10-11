@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "212330941866",
+    "project_id": "promotions-u5pdml",
+    "storage_bucket": "promotions-u5pdml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212330941866:android:da01ba18e88ca7a5b9afd3",
+        "android_client_info": {
+          "package_name": "com.cdr.promotions.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212330941866-65la47bl054hbdng7s8024771ek6vleh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdr.promotions.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "212330941866-n7jofg6sn2hhsahime6m0suhs76gf7fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdr.promotions.app",
+            "certificate_hash": "6e93314ddab472d74c4ac7d9e989a9e45d8d00a8"
+          }
+        },
+        {
+          "client_id": "212330941866-t522bc2unhf78u4gg3br4a6fv58p7gio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdr.promotions.app",
+            "certificate_hash": "f5e4ea47adc2d369d3f2f214a60ff80d4c265bf9"
+          }
+        },
+        {
+          "client_id": "212330941866-voqffvq6vuf1k06gie19p5h2d4cf935t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdr.promotions.app",
+            "certificate_hash": "001c6201049f8dbd143058463e0f6208840e2352"
+          }
+        },
+        {
+          "client_id": "212330941866-q78ch9i3ms53e6psljke316qsdlphsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAst2l_U82-eQ3FXWj5e1LZ-rRnEKJcR9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212330941866-q78ch9i3ms53e6psljke316qsdlphsfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212330941866-a4n08m835ulcs3dhibmoas9f9bjl6u6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cdr.promotions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
